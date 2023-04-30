@@ -1,6 +1,6 @@
 [
     ["Among Us", "Crewmates work together to complete tasks before you as the imposter kill them.", "./assets/among-us.png", "/game/among-us/index.html"],
-    ["Slope", "Speed down on a randomized slope. The farther you go, the faster your ball travels!", "./assets/slope.jpg", "/game/slope/index.html"], 
+    ["Slope", "Speed down on a randomized slope. The farther you go, the faster your ball travels! Does not work on Chromebooks", "./assets/slope.jpg", "/game/slope/index.html"], 
     ["Minecraft", "Play single player Minecraft right from your browser!", "./assets/mc.png", "/game/minecraft/index.html"], 
     ["Temple Run", "Test your reflexes as you race down ancient temple walls and along sheer cliffs.", "./assets/temple-run.png", "/game/temple-run/index.html"],
     ["Krunker", "Krunker.io is a fast-paced pixelated first-person shooter game.", "./assets/krk.png", "/game/krunker/index.html"],
